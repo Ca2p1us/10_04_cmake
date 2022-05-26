@@ -4,9 +4,8 @@ services:
   myopencv:
     build: ./
     volumes:
-      - ../:/mnt
+      - ./:/mnt
     tty: true
-    working_dir: /mnt/10_04_cmake
     cap_add:
       - SYS_PTRACE
     security_opt:
