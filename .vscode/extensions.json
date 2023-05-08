@@ -1,8 +1,15 @@
 {
     "recommendations": [
-        "ms-ceintl.vscode-language-pack-ja",
-        "visualstudioexptteam.vscodeintellicode",
+        "esbenp.prettier-vscode",
+        "jbenden.c-cpp-flylint",
         "mhutchie.git-graph",
+        "ms-azuretools.vscode-docker",
+        "ms-ceintl.vscode-language-pack-ja",
         "ms-vscode.cmake-tools",
+        "ms-vscode.cpptools-extension-pack",
+        "ms-vscode.makefile-tools",
+        "visualstudioexptteam.vscodeintellicode-completions",
+        "visualstudioexptteam.vscodeintellicode",
+        "xaver.clang-format",
     ]
 }
