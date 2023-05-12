@@ -24,5 +24,8 @@
         "c11"
     ],
     //
+    "cmake.automaticReconfigure": false,
+    "cmake.autoSelectActiveFolder": false,
+    "cmake.configureOnEdit": false,
     "cmake.configureOnOpen": false,
 }
