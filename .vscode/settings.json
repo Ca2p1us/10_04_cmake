@@ -23,9 +23,18 @@
     "c-cpp-flylint.standard": [
         "c11"
     ],
+    "[c]": {
+        // "editor.defaultFormatter": "xaver.clang-format",
+        "editor.defaultFormatter": "ms-vscode.cpptools",
+    },
+    "[cpp]": {
+        // "editor.defaultFormatter": "xaver.clang-format",
+        "editor.defaultFormatter": "ms-vscode.cpptools",
+    },
     //
     "cmake.automaticReconfigure": false,
     "cmake.autoSelectActiveFolder": false,
     "cmake.configureOnEdit": false,
     "cmake.configureOnOpen": false,
+    "cmake.clearOutputBeforeBuild": true,
 }
