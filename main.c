@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-#include "task15-1.h"
+#include "task.h"
 
 int main(void)
 {
